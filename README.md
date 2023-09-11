@@ -29,4 +29,4 @@ Make sure you have the following dependencies installed:
 
 ## Contributions
 
-All contributions are welcome to this project. If you have any suggestions or bug reports please, please [open an issue](https://github.com/tayfunacar00/udemy-course-info-extractor/issues) or [create a pull request](https://github.com/tayfunacar00/udemy-course-info-extractor/pulls).
+All contributions are welcome to this project. If you have any suggestions or bug reports please [open an issue](https://github.com/tayfunacar00/udemy-course-info-extractor/issues).
