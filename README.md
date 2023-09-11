@@ -19,7 +19,7 @@ Make sure you have the following dependencies installed:
 2. Open a terminal or command prompt.  
 3. Navigate to the directory containing the script:  
     > cd path/to/udemy-course-info-extractor/  
-    > python udemy_course_info.py  
+    > python udemy_course_info_extractor.py  
   
 4. After doing so, you will be prompted to enter the Udemy course URL. The script will retrieve and display the course name and creation date.  
 
